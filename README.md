@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator
+# 🧮 Simple Calculator App
 
 A lightweight and beginner-friendly calculator application that performs
 basic arithmetic operations.\
