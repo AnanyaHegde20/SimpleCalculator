@@ -73,7 +73,7 @@ Pull requests and improvements are always welcome!
 📝 MIT License
 
 
-# simplecalculator
+# simple_calculator
 
 A new Flutter project.
 
